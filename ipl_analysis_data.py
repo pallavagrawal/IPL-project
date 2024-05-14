@@ -1,6 +1,5 @@
 import pandas as pd
 import time
-import sqlalchemy
 import matplotlib.pyplot as plt
 
 df = pd.DataFrame()
